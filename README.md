@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Cookpal/.github/main/assets/banner.png" alt="CookPal Banner"/>
+<img src="https://raw.githubusercontent.com/Cookpal/.github/refs/heads/main/banner.png" alt="CookPal Banner"/>
 
 # 🍳 CookPal
 
